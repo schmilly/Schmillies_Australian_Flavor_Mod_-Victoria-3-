@@ -178,7 +178,7 @@ AOT = { # Aotearoa
 	capital = STATE_NORTH_ISLAND
 }
 
-ULR = { # Uluru
+ABO = { # Aboriginie
 	color = { 112 54 16 }
 	
 	tier = principality

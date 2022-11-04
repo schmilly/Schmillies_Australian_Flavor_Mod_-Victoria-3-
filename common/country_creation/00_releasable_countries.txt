@@ -1,4 +1,17 @@
-﻿UBD = {
+﻿ABO = {
+	use_culture_states = yes
+
+	required_num_states = 3
+
+	ai_will_do = { always = no }
+
+	possible = {
+		has_technology_researched = pan-nationalism
+	}
+
+}
+
+UBD = {
 	use_culture_states = yes
 	
 	required_num_states = 3
