@@ -178,7 +178,7 @@ AOT = { # Aotearoa
 	capital = STATE_NORTH_ISLAND
 }
 
-ABO = { # Aboriginie
+ULR = { # Uluru
 	color = { 112 54 16 }
 	
 	tier = principality
@@ -189,6 +189,19 @@ ABO = { # Aboriginie
 	
 	capital = STATE_NORTHERN_TERRITORY
 }
+
+ABO = { #aboriginie
+	color = { 112 54 16 }
+	
+	tier = principality
+	
+	country_type = decentralized
+	
+	cultures = { aborigine }
+	
+	capital = STATE_NORTHERN_TERRITORY
+}
+
 
 NSW = { # New South Wales
 	color = { 114 165 203 }
@@ -281,6 +294,15 @@ NZL = {
 	cultures = { australian }
 }
 
+VIC = {
+    color = { 118 115 97 }
+    
+    country_type = colonial
+    
+    capital = STATE_VICTORIA
+    cultures = { australian }
+}
+
 TAS = {
 	color = { 224 194 152 }
 	
@@ -288,7 +310,7 @@ TAS = {
 	
 	tier = principality
 	
-	capital = STATE_VICTORIA
+	capital = STATE_TASMANIA
 	cultures = { australian }
 }
 

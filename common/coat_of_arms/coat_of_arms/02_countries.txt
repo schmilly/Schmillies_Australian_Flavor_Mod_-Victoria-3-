@@ -30,6 +30,23 @@ ABO = { # Aboriginals
 	}
 }
 
+NNG = { # Aboriginals
+	pattern = "pattern_solid.tga"
+	color1 = "black"
+
+	colored_emblem = {
+		texture = "ce_bicolor_bottom.dds"
+		color1 = "red"
+		color2 = "red"
+	}
+
+	colored_emblem = {
+		texture = "ce_circle.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+	}
+}
+
 ABS = { # Absaroke Crow
 	# Combination of traditionnal Crow designs
 	

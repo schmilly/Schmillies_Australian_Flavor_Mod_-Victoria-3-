@@ -548,9 +548,7 @@ YEM = {
 }
 
 ABO = {
-	states = {
-		use_culture_states = yes
-	}
+    use_culture_states = yes
 
 	possible = {
 		country_has_primary_culture =

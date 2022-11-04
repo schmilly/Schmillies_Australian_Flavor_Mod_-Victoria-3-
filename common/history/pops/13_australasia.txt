@@ -108,7 +108,7 @@
 				size = 5000
 			}
 			create_pop = {
-				culture = australian
+				culture = new_zelander
 				size = 1004
 			}
 		}
@@ -122,7 +122,7 @@
 	s:STATE_SOUTH_ISLAND = {
 		region_state:NTO = {
 			create_pop = {
-				culture = australian
+				culture = new_zelander
 				size = 428
 			}
 			create_pop = {
