@@ -1,0 +1,12 @@
+{
+  "name" : "Australian Flavor Mod",
+  "id" : "",
+  "version" : "1.04",
+  "supported_game_version" : "",
+  "short_description" : "A Mod to add more Flavor to Australia",
+  "tags" : [],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
