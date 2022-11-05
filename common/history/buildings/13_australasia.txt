@@ -40,7 +40,13 @@
 				level=1
 				reserves=1
 				activate_production_methods={ "pm_wound_dressing" "pm_line_infantry" "pm_cavalry_scouts" "pm_no_specialists" "pm_mobile_artillery" }
-			}			
+			}
+			create_building={
+				building="building_port"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_basic_port" }
+			}
 		}
 	}
 	s:STATE_TASMANIA={
@@ -50,7 +56,13 @@
 				level=1
 				reserves=1
 				activate_production_methods={ "pm_wound_dressing" "pm_line_infantry" "pm_cavalry_scouts" "pm_no_specialists" "pm_mobile_artillery" }
-			}		
+			}
+			create_building={
+				building="building_port"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_basic_port" }
+			}
 		}
 	}
 	s:STATE_QUEENSLAND={
@@ -76,7 +88,13 @@
 				level=1
 				reserves=1
 				activate_production_methods={ "pm_wound_dressing" "pm_line_infantry" "pm_cavalry_scouts" "pm_no_specialists" "pm_mobile_artillery" }
-			}		
+			}
+			create_building={
+				building="building_port"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_basic_port" }
+			}
 		}
 	}
 	s:STATE_WESTERN_AUSTRALIA={
@@ -86,7 +104,13 @@
 				level=1
 				reserves=1
 				activate_production_methods={ "pm_wound_dressing" "pm_line_infantry" "pm_cavalry_scouts" "pm_no_specialists" "pm_mobile_artillery" }
-			}		
+			}
+			create_building={
+				building="building_port"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_basic_port" }
+			}
 		}
 		region_state:NNG={
 		}

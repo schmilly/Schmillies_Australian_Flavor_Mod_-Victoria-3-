@@ -14,6 +14,12 @@
 				size = 16080
 			}
 		}
+        region_state:NNG = {
+			create_pop = {
+				culture = aborigine
+				size = 21100
+			}
+		}
 	}
 	s:STATE_VICTORIA = {
 		region_state:NSW = {
@@ -26,8 +32,13 @@
 				size = 24676
 			}
 		}
+        region_state:NNG = {
+			create_pop = {
+				culture = aborigine
+				size = 21100
+			}
+		}
 	}
-
 	s:STATE_TASMANIA = {
 		region_state:TAS = {
 			create_pop = {
@@ -49,6 +60,12 @@
 			create_pop = {
 				culture = australian
 				size = 4000
+			}
+        }
+        region_state:NNG = {
+			create_pop = {
+				culture = aborigine
+				size = 21100
 			}
 		}
 	}
@@ -83,7 +100,7 @@
 		}
 	}
 	s:STATE_NORTHERN_TERRITORY = {
-		region_state:NSW = {
+		region_state:NNG = {
 			create_pop = {
 				culture = aborigine
 				size = 31804
