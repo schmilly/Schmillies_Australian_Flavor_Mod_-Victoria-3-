@@ -225,6 +225,17 @@ WAS = { # Western Australia
 	cultures = { australian }
 }
 
+QLD = { #Queensland
+	color = { 142 47 78 }
+	
+	country_type = colonial
+	
+	tier = principality
+	
+	capital = STATE_QUEENSLAND 
+	cultures = { australian }
+}
+
 SAS = { # South Australia
 	color = { 170 90 128 }
 	
@@ -299,6 +310,8 @@ VIC = {
     
     country_type = colonial
     
+	tier = principality
+	
     capital = STATE_VICTORIA
     cultures = { australian }
 }

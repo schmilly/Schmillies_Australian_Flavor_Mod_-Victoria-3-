@@ -30,7 +30,7 @@ ABO = { # Aboriginals
 	}
 }
 
-NNG = { # Aboriginals
+NNG = { # Aboriginalflag
 	pattern = "pattern_solid.tga"
 	color1 = "black"
 

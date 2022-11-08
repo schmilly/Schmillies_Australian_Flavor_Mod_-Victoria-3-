@@ -1,0 +1,21 @@
+CHARACTERS = {
+	c:NSW = {
+		create_character = {
+			# Sir Richard Bourke
+			#role = politician # Remove this line
+			first_name = "Richard"
+			last_name = "Bourke"
+			ruler = yes
+			age = 59
+			interest_group = ig_armed_forces
+			ideology = ideology_reformer 
+			#suprisingly progressive, pushed for ending of penal settlment and emancipate convicts
+			traits = {
+				imperious
+			}
+            on_created = {
+				set_variable = is_married
+			}
+		}
+	}
+}

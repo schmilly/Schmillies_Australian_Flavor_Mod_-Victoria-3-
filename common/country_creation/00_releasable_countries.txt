@@ -19,7 +19,7 @@ UBD = {
 	}
 }
 
-QNS = {
+QLD = {
     states = {
         STATE_QUEENSLAND
     }
